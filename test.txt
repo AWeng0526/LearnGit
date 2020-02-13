@@ -1,1 +1,1 @@
-this is a text by branch test.
+this was a text by branch test.
